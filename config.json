@@ -1,0 +1,18 @@
+{
+	"version" : "v05",
+	"author" : "zed2000",
+	
+	"name" :  {
+		"en" : "ProductionStatistics",
+		"de" : "Produktionsstatistik"
+	},
+	"description" : {
+		"en" : "Change the GUI of production menu.",
+		"de" : "Diese Mod ändert die GUI im Menü \"Produktion\"."
+	},
+	
+	"links" : {
+		"download" : "https://github.com/DigglesMods/ProductionStatistics/releases",
+		"wiki" : "https://github.com/DigglesMods/ProductionStatistics/wiki"
+	}
+}
