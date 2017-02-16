@@ -7,8 +7,8 @@
 		"de" : "Produktionsstatistik"
 	},
 	"description" : {
-		"en" : "Change the GUI of production menu.",
-		"de" : "Diese Mod ändert die GUI im Menü \"Produktion\"."
+		"en" : "Adds new game features accessible via production menu: exchange of weapons/tools between dwarves, pickup large amount of items at once, extended statistics",
+		"de" : "Fügt neue Features hinzu, die über das Menü Produktion erreichbar sind: Austausch von Waffen/Werkzeugen, Erteilen von mehreren Aufhebe-befehlen auf einmal, Erweiterte Statistik"
 	},
 	
 	"links" : {
