@@ -201,7 +201,7 @@ proc print_equipment_new_task {userInput} {
 	layout print [localize "NewUserTask"] ":/p"
 	print_equipment_task $userInput
 	layout print "/p"
-	hyperlink "execute_equipment_task" [lmsg ausfuehren]
+	hyperlink "execute_equipment_task" [localize "ausfuehren"]
 	hyperlink "delete_equipment_userinput" [lmsg Undo]
 	layout print "/p"
 }

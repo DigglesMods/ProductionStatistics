@@ -154,7 +154,7 @@ if {$infowin_prodmode == "resource"} {
 			set ret [gui_printPickupString $infowin_prodResourceTask]
 			#layout print $ret
 			if { $ret > 0} {
-				hyperlink "executePickupTask" "[lmsg ausfuehren]"
+				hyperlink "executePickupTask" "[localize ausfuehren]"
 			}
 		} else {
 			layout print "[lmsg Zwerg] [lmsg pickup]"
