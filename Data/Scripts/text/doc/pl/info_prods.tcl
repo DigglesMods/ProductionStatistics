@@ -38,23 +38,23 @@ if {$modEnabled} {
 }
 
 # load localisation scripts
-call "scripts/text/doc/[locale]/prodmanager/proc_localisation.tcl"
+call "scripts/text/doc/prodmanager/proc_localisation.tcl"
 
 # load some misc procedures
-call "scripts/text/doc/[locale]/prodmanager/proc_utils.tcl"
+call "scripts/text/doc/prodmanager/proc_utils.tcl"
 
 # load procedures for the submenu "resources"
-call "scripts/text/doc/[locale]/prodmanager/proc_resources.tcl"
+call "scripts/text/doc/prodmanager/proc_resources.tcl"
 
 # load procedures for the submenu "standard"
-call "scripts/text/doc/[locale]/prodmanager/proc_standard.tcl"
+call "scripts/text/doc/prodmanager/proc_standard.tcl"
 	
 if {$modEnabled} {
 	# load procedures for the submenu "manager"
-	call "scripts/text/doc/[locale]/prodmanager/proc_manager.tcl"
+	call "scripts/text/doc/prodmanager/proc_manager.tcl"
 	
 	# load procedures for the submenu "equipment"
-	call "scripts/text/doc/[locale]/prodmanager/proc_equipment.tcl"
+	call "scripts/text/doc/prodmanager/proc_equipment.tcl"
 }
 
 # #####################
